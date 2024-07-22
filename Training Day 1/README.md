@@ -1,7 +1,7 @@
 ## File Structure
 
 ```
-Training1
+Training Day 1
     - If-Else-If.java
     - Loops.java
     - Division.java
@@ -9,7 +9,7 @@ Training1
 
 ## Overview
 
-### Training1
+### Training Day 1
 
 #### If-Else-If
 A program that takes user input for marks and prints the corresponding grade based on the specified ranges using if-else-if statements.
